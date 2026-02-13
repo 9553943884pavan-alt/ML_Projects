@@ -176,7 +176,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Machine Learning Capstone Project - Company X HR Analytics
+Machine Learning Capstone Project - T.V.Pavan Kumar
 
 ---
 
